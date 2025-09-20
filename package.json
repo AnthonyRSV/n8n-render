@@ -1,0 +1,17 @@
+{
+  "name": "n8n-render",
+  "version": "1.0.0",
+  "description": "Despliegue de n8n en Render",
+  "main": "index.js",
+  "scripts": {
+    "start": "n8n"
+  },
+  "dependencies": {
+    "n8n": "^2.225.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "Anthony RSV",
+  "license": "MIT"
+}
